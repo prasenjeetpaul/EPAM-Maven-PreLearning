@@ -1,0 +1,4 @@
+com\mavenprojects\sortingalgorithms\SortingAlgorithm.class
+com\mavenprojects\sortingalgorithms\QuickSort.class
+com\mavenprojects\sortingalgorithms\BubbleSort.class
+com\mavenprojects\sortingalgorithms\MergeSort.class
