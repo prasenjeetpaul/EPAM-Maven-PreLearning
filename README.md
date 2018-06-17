@@ -1,5 +1,5 @@
 # EPAM-Maven-PreLearning
-This repository consists of project developed using Maven &amp; JAVA and a Git Learning Module
+This repository consists of a project developed using Maven &amp; JAVA and a Git Learning Module
 
 The Maven Project consists of sorting algoithms namely: 
 1. **Bubble Sort**
